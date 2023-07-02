@@ -4,7 +4,7 @@ ___
 <br>
 
 #### Reading List:
-###### *"Why do tree-based models still outperform deep learning on tabular data?" (Grinsztajn, L. et al., 2022)
+###### *"Why do tree-based models still outperform deep learning on tabular data?" (Grinsztajn, L. et al., 2022)* <br>
 ###### *"data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language" (Baevski, A. et al., 2022)* <br>
 ###### *"IPFS - Content Addressed, Versioned, P2P File System" (Benet, J. 2014)* <br>
 ###### *"Learning to Generate Reviews and Discovering Sentiment" (Radford, A. et al., 2017)* <br>
