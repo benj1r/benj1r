@@ -1,5 +1,5 @@
 ___
-#### Software Developer, Machine Learning Engineer, and aspiring Research Graduate looking for applicable experience in the following areas: General Artificial Intelligence, Computer Vision, Natural Language Processing, Computational Physics, and Light Transport Simulation.
+#### Software Developer and Machine Learning Engineer looking for applicable experience in the following areas: General Artificial Intelligence, Computer Vision, Natural Language Processing, Computational Physics, and Light Transport Simulation.
 
 <br>
 
